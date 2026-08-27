@@ -1,6 +1,6 @@
 # murphy · Powerff
 
-**Software engineer** focused on production delivery and practical AI-assisted engineering.
+**Full-stack engineer** focused on production delivery and practical AI-assisted engineering.
 
 GitHub: [Powerff](https://github.com/Powerff) · Site: [murphy.code](https://powerff.github.io/murphy.code.github.io/)
 
@@ -88,7 +88,7 @@ An open-source suite of **self-contained engineering Agent Skills** (MIT), compa
 
 ## 中文简介
 
-你好，我是 **murphy（Powerff）**：做交付的工程师，也在真实项目里使用 AI。
+你好，我是 **murphy（Powerff）**：全栈工程师，也在真实项目里使用 AI。
 
 我关注把「规范、评审、重构、排障、验证」沉淀成可安装的 **Agent Skills**，让 Cursor / Claude Code 按同一套工程标准执行，而不是每次从零口述规则。
 
