@@ -2,7 +2,7 @@
 
 **Full-stack engineer** · production delivery · practical AI-assisted engineering
 
-[GitHub](https://github.com/Powerff) · [Website](https://powerff.github.io/murphy.code.github.io/) · [eng-code-skills](https://github.com/Powerff/eng-code-skills)
+[GitHub](https://github.com/Powerff) · [Website](https://powerff.github.io/) · [eng-code-skills](https://github.com/Powerff/eng-code-skills)
 
 ---
 
@@ -94,7 +94,7 @@ npx agentskills load github:Powerff/eng-code-skills#skills/frontend-hooks-check
 ## Contact
 
 - GitHub: [@Powerff](https://github.com/Powerff)
-- Website: [murphy.code](https://powerff.github.io/murphy.code.github.io/)
+- Website: [murphy.code](https://powerff.github.io/)
 - Open source: [eng-code-skills](https://github.com/Powerff/eng-code-skills)
 
 > **In one line:** Ship reliable software, and encode hard-won engineering judgment into tools others can run — with boundaries, verification, and clear ownership of risk.
