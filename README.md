@@ -117,14 +117,16 @@ npx agentskills load github:Powerff/eng-code-skills#skills/frontend-hooks-check
 
 ### 代表开源
 
-[eng-code-skills](https://github.com/Powerff/eng-code-skills)（MIT · v0.2 · **24** 个自包含技能）
+[eng-code-skills](https://github.com/Powerff/eng-code-skills)（MIT · v0.2.2 · **25** 个自包含技能）
 
 | 分层 | 内容 |
 | --- | --- |
 | 通用 | 规范检查 · 安全重构 · 技术债务扫描 · 代码评审 |
 | 后端分析 | 领域检查 / 重构 / 债务 / 评审 · **接口分层（DTO/VO/Entity）** |
-| 后端工作流 | 编码规范 · 评审驱动优化 · 证据驱动修 Bug · 提交说明 · 实现–验证–（提交/重启）闭环 · 项目级服务重构 |
+| 后端工作流 | 编码规范 · 优化 · 修 Bug · 提交 · 实现–验证–（提交/重启） · 服务重构 · **技术栈升级（JDK 等）** |
 | 前端 | 领域检查 / 重构 / 债务 / 评审 · **Hooks 专项** · **组件审计** · 项目级迁移 |
+
+**模式：** 分析类默认只出报告/方案；工作流类会改工作区；仅 `backend-implement-verify-commit` / `backend-code-commit` 默认提交。详见 [Plan-only vs writes](https://github.com/Powerff/eng-code-skills#plan-only-vs-writes-to-your-repo)。
 
 [codebase-agent-kit](https://github.com/Powerff/codebase-agent-kit)（MIT · v0.1 · **8** 个代码库级技能）
 
@@ -134,7 +136,9 @@ npx agentskills load github:Powerff/eng-code-skills#skills/frontend-hooks-check
 | 后端 | 全局风险审计 · 单体模块拆分 |
 | 前端 | 全局风险审计 · 组件/模块拆分 |
 
-**组合用法：** kit 定全局范围与迁移/债务计划 → eng-code-skills 做单文件质量落地 → kit 再做全局复检。
+**模式：全部只出方案，不覆盖仓库。** 落地请接 eng-code-skills 工作流（如 `backend-stack-upgrade`）。
+
+**组合用法：** kit 定全局方案 → eng 工作流改码验证 → eng 分析类做单文件质量收尾。
 
 **默认约束：** 不静默篡改业务语义；每次输出必须带 **风险警告** 与 **人工校验点**；大型重构走「链路分析 → 方案审查 → 编码 → CR → 测试闭环」。
 
