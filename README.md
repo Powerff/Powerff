@@ -103,15 +103,11 @@ npx agentskills load github:Powerff/eng-code-skills#skills/frontend-hooks-check
 
 ## 中文简介
 
-你好，我是 **murphy** —— **全栈工程师**，长期在真实交付约束下做工程落地，并持续把可复用的工程判断沉淀为 AI Agent Skills。
+**murphy**。不全说。
 
 > GitHub：[@Powerff](https://github.com/Powerff) · 站点：[powerff.github.io](https://powerff.github.io/)
 
-### 我做什么
-
-- **交付可靠系统**：在工期、遗留代码、评审标准与生产风险并存时，仍坚持小步改动、先验证后合入。  
-- **把「会审代码的人」沉淀成工具**：将规范、评审、重构、排障、验证做成可安装的 **Agent Skills**，让 Cursor / Claude Code 按同一套标准执行，而不是每次从零口述规则。  
-- **前后端都按失败模式设计检查清单**：后端关注契约、事务、并发、资源与数据安全；前端关注状态归属、Hooks/副作用、渲染成本与交互正确性。
+公开的只有可验证的痕迹：提交、技能、边界。履历与分工不在这里展开。
 
 ### 代表开源
 
