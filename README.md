@@ -1,8 +1,8 @@
-# murphy · Powerff
+# murphy
 
 **Full-stack engineer** · production delivery · practical AI-assisted engineering
 
-[GitHub](https://github.com/Powerff) · [Website](https://powerff.github.io/) · [eng-code-skills](https://github.com/Powerff/eng-code-skills)
+GitHub handle: [@Powerff](https://github.com/Powerff) · [Website](https://powerff.github.io/) · [eng-code-skills](https://github.com/Powerff/eng-code-skills)
 
 ---
 
@@ -103,7 +103,9 @@ npx agentskills load github:Powerff/eng-code-skills#skills/frontend-hooks-check
 
 ## 中文简介
 
-你好，我是 **murphy（Powerff）** —— **全栈工程师**，长期在真实交付约束下做工程落地，并持续把可复用的工程判断沉淀为 AI Agent Skills。
+你好，我是 **murphy** —— **全栈工程师**，长期在真实交付约束下做工程落地，并持续把可复用的工程判断沉淀为 AI Agent Skills。
+
+> GitHub 账号名为 [@Powerff](https://github.com/Powerff)（用户名 `murphy` / 域名 `murphy.github.io` 已被占用，故站点仍为 [powerff.github.io](https://powerff.github.io/)）。
 
 ### 我做什么
 
